@@ -84,10 +84,10 @@
             "font_style": "italic"
           },
           "constant": {
-            "color": "#bd93f9"
+            "color": "#FE79C6FF"
           },
           "constructor": {
-            "color": "#8be9fd"
+            "color": "#FE79C6FF"
           },
           "embedded": {
             "color": "#F8F8F2"
@@ -129,7 +129,7 @@
             "color": "#F8F8F2"
           },
           "property": {
-            "color": "#8be9fd"
+            "color": "#FFB86CFF"
           },
           "punctuation": {
             "color": "#F8F8F2"
@@ -210,7 +210,9 @@
         "version_control.conflict_marker.theirs": "#7B65A359",
         "version_control.renamed": "#FFB86CFF",
         "version_control.conflict": "#FF5555FF",
-        "version_control.ignored": "#6272A4FF"
+        "version_control.ignored": "#6272A4FF",
+        "search.match_background": "#5D6069FF",
+        "editor.document_highlight.bracket_background": "#17FF00FF"
       }
     }
   ],
