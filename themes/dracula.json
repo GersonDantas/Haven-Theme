@@ -212,7 +212,7 @@
         "version_control.conflict": "#FF5555FF",
         "version_control.ignored": "#6272A4FF",
         "search.match_background": "#5D6069FF",
-        "editor.document_highlight.bracket_background": "#17FF00FF"
+        "editor.document_highlight.bracket_background": "#17FF0055"
       }
     },
     {
