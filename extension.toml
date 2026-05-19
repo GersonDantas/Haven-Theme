@@ -1,6 +1,6 @@
 id = "dracula-by-gerson"
 name = "Dracula by Gerson"
-version = "0.0.1"
+version = "0.2.0"
 schema_version = 1
 authors = ["Gerson Dantas"]
 description = "Custom Dracula by Gerson"
