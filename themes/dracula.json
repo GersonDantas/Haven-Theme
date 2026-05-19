@@ -214,6 +214,245 @@
         "search.match_background": "#5D6069FF",
         "editor.document_highlight.bracket_background": "#17FF00FF"
       }
+    },
+    {
+      "name": "Dracula Light Gerson",
+      "appearance": "light",
+      "style": {
+        "border": "#C8CCE099",
+        "border.variant": "#D9DCEB",
+        "border.focused": "#BD93F955",
+        "border.selected": "#BD93F944",
+
+        "background": "#F6F7FB",
+        "surface.background": "#ECEEF5",
+
+        "element.background": "#F6F7FB",
+        "element.hover": "#E2E6F2",
+        "element.active": "#D8DDF0",
+        "element.selected": "#D8DDF088",
+
+        "editor.background": "#F6F7FB",
+        "editor.gutter.background": "#F6F7FB",
+        "editor.subheader.background": "#ECEEF5",
+
+        "editor.active_line.background": "#E9ECF5",
+        "editor.line_number": "#7B84A6",
+        "editor.active_line_number": "#3A3F58",
+
+        "toolbar.background": "#F6F7FB",
+
+        "tab.inactive_background": "#ECEEF5",
+        "tab.active_background": "#F6F7FB",
+
+        "title_bar.background": "#E8EBF5EE",
+
+        "text": "#2E3440",
+        "text.muted": "#6B7394",
+        "text.placeholder": "#8B92B0",
+        "text.disabled": "#A0A5BB",
+        "text.accent": "#2E3440",
+
+        "icon": "#2E3440",
+        "icon.muted": "#6B7394",
+        "icon.disabled": "#A0A5BB",
+        "icon.accent": "#2E3440",
+
+        "scrollbar.thumb.background": "#B6BDD955",
+        "scrollbar.thumb.hover_background": "#8D96BA88",
+
+        "minimap.thumb.background": "#B6BDD955",
+        "minimap.thumb.hover_background": "#8D96BA88",
+
+        "players": [
+          {
+            "cursor": "#7B4DDB",
+            "background": "#BD93F9",
+            "selection": "#BD93F944"
+          },
+          {
+            "cursor": "#2E9B57",
+            "background": "#50FA7B",
+            "selection": "#50FA7B33"
+          },
+          {
+            "cursor": "#D94B97",
+            "background": "#FF79C6",
+            "selection": "#FF79C633"
+          },
+          {
+            "cursor": "#B89A45",
+            "background": "#C9B36F",
+            "selection": "#C9B36F33"
+          },
+          {
+            "cursor": "#2E91C7",
+            "background": "#8BE9FD",
+            "selection": "#8BE9FD33"
+          },
+          {
+            "cursor": "#D84B4B",
+            "background": "#FF5555",
+            "selection": "#FF555533"
+          }
+        ],
+
+        "syntax": {
+          "attribute": {
+            "color": "#249A4A"
+          },
+          "boolean": {
+            "color": "#8E63D2"
+          },
+          "comment": {
+            "color": "#7D86A8",
+            "font_style": "italic"
+          },
+          "constant": {
+            "color": "#D94B97"
+          },
+          "constructor": {
+            "color": "#D94B97"
+          },
+          "embedded": {
+            "color": "#2E3440"
+          },
+          "emphasis": {
+            "font_style": "italic"
+          },
+          "enum": {
+            "color": "#2E91C7"
+          },
+          "function": {
+            "color": "#249A4A"
+          },
+          "hint": {
+            "color": "#7B84A6"
+          },
+          "keyword": {
+            "color": "#D94B97"
+          },
+          "label": {
+            "color": "#2E91C7"
+          },
+          "link_text": {
+            "color": "#2E91C7"
+          },
+          "number": {
+            "color": "#8E63D2"
+          },
+          "operator": {
+            "color": "#D94B97"
+          },
+          "predictive": {
+            "color": "#7B84A6"
+          },
+          "preproc": {
+            "color": "#D94B97"
+          },
+          "primary": {
+            "color": "#2E3440"
+          },
+          "property": {
+            "color": "#C47B2D"
+          },
+          "punctuation": {
+            "color": "#4B5268"
+          },
+          "punctuation.bracket": {
+            "color": "#7B84A6"
+          },
+          "punctuation.delimiter": {
+            "color": "#7B84A6"
+          },
+          "punctuation.list_marker": {
+            "color": "#D94B97"
+          },
+          "punctuation.special": {
+            "color": "#D94B97"
+          },
+          "string": {
+            "color": "#A68A3D"
+          },
+          "string.escape": {
+            "color": "#D58A38"
+          },
+          "string.regex": {
+            "color": "#D58A38"
+          },
+          "tag": {
+            "color": "#D94B97"
+          },
+          "text.literal": {
+            "color": "#7A7F92"
+          },
+          "title": {
+            "color": "#249A4A"
+          },
+          "type": {
+            "color": "#2E91C7"
+          },
+          "variable": {
+            "color": "#2E3440"
+          },
+          "variable.special": {
+            "color": "#8E63D2"
+          },
+          "variant": {
+            "color": "#2E91C7"
+          }
+        },
+
+        "accents": [
+          "#8E63D2",
+          "#D94B97",
+          "#2E91C7",
+          "#249A4A",
+          "#D58A38",
+          "#C9B36F",
+          "#D84B4B"
+        ],
+
+        "elevated_surface.background": "#F0F2F8",
+
+        "panel.background": "#ECEEF5",
+        "panel.focused_border": "#BD93F955",
+        "panel.overlay_background": "#F0F2F8",
+        "panel.overlay_hover": "#E2E6F2",
+
+        "pane.focused_border": "#BD93F955",
+
+        "link_text.hover": "#2E3440",
+
+        "editor.highlighted_line.background": "#ECEEF5",
+
+        "status_bar.background": "#F6F7FB",
+
+        "ghost_element.active": "#D8DDF0",
+        "ghost_element.selected": "#D8DDF088",
+
+        "tab_bar.background": "#ECEEF5",
+
+        "terminal.background": "#F6F7FB",
+
+        "warning": "#D58A38",
+        "warning.background": "#D58A3822",
+        "warning.border": "#D58A3844",
+        "warning.text": "#2E3440",
+
+        "version_control.deleted": "#C23B3B",
+        "version_control.added": "#249A4A",
+        "version_control.modified": "#B8952E",
+        "version_control.conflict_marker.ours": "#249A4A33",
+        "version_control.conflict_marker.theirs": "#8E63D233",
+        "version_control.renamed": "#D58A38",
+        "version_control.conflict": "#D84B4B",
+        "version_control.ignored": "#7B84A6",
+
+        "search.match_background": "#D8DDF0",
+
+        "editor.document_highlight.bracket_background": "#B6F0B6"
+      }
     }
   ],
   "isUserGenerated": true,
