@@ -281,9 +281,9 @@
             "selection": "#C45D9F33"
           },
           {
-            "cursor": "#B89B4A",
-            "background": "#B89B4A",
-            "selection": "#B89B4A33"
+            "cursor": "#C9A84E",
+            "background": "#C9A84E",
+            "selection": "#C9A84E33"
           },
           {
             "cursor": "#4B7EDB",
@@ -372,7 +372,7 @@
             "color": "#C45D9F"
           },
           "string": {
-            "color": "#B89B4A"
+            "color": "#C9A84E"
           },
           "string.escape": {
             "color": "#D58A38"
@@ -409,7 +409,7 @@
           "#4B7EDB",
           "#4A9D74",
           "#D58A38",
-          "#B89B4A",
+          "#C9A84E",
           "#D84B4B"
         ],
 
@@ -442,7 +442,7 @@
 
         "version_control.deleted": "#C23B3B",
         "version_control.added": "#4A9D74",
-        "version_control.modified": "#B89B4A",
+        "version_control.modified": "#C9A84E",
         "version_control.conflict_marker.ours": "#4A9D7433",
         "version_control.conflict_marker.theirs": "#BD93F933",
         "version_control.renamed": "#D58A38",
