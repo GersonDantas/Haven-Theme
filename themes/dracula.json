@@ -440,6 +440,8 @@
         "warning.border": "#D58A3844",
         "warning.text": "#2F3447",
 
+        "modified": "#D0B90B",
+
         "version_control.deleted": "#C23B3B",
         "version_control.added": "#4A9D74",
         "version_control.modified": "#C9A84E",
