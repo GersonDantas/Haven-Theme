@@ -1424,7 +1424,7 @@
         ],
         "syntax": {
           "attribute": {
-            "color": "#A3144DDD",
+            "color": "#C45D9FDD",
             "font_style": null,
             "font_weight": null
           },
@@ -1584,7 +1584,7 @@
             "font_weight": null
           },
           "tag": {
-            "color": "#A3144DDD",
+            "color": "#C45D9FDD",
             "font_style": null,
             "font_weight": null
           },
@@ -2270,7 +2270,7 @@
         ],
         "syntax": {
           "attribute": {
-            "color": "#A3144DDD",
+            "color": "#C45D9FDD",
             "font_style": null,
             "font_weight": null
           },
@@ -2430,7 +2430,7 @@
             "font_weight": null
           },
           "tag": {
-            "color": "#A3144DDD",
+            "color": "#C45D9FDD",
             "font_style": null,
             "font_weight": null
           },
