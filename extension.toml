@@ -1,7 +1,7 @@
-id = "dracula-by-gerson"
-name = "Dracula by Gerson"
-version = "0.5.0"
+id = "haven-theme"
+name = "Haven"
+version = "0.6.0"
 schema_version = 1
 authors = ["Gerson Dantas"]
-description = "Custom Dracula by Gerson"
+description = "A comfort-focused theme collection for Zed inspired by Dracula."
 repository = "https://github.com/GersonDantas/Custom-Dracula"

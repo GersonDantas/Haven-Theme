@@ -1,10 +1,10 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
-  "name": "Dracula",
+  "name": "Haven",
   "author": "Gerson Dantas",
   "themes": [
     {
-      "name": "Dracula Refined",
+      "name": "Haven Refined",
       "appearance": "dark",
       "style": {
         "border": "#6272A440",
@@ -419,7 +419,7 @@
       }
     },
     {
-      "name": "Dracula Refined Light",
+      "name": "Haven Refined Light",
       "appearance": "light",
       "style": {
         "border": "#C8CCE099",
@@ -844,7 +844,7 @@
       }
     },
     {
-      "name": "Dracula Teal Comfort Solid",
+      "name": "Haven Teal Comfort Solid",
       "appearance": "dark",
       "style": {
         "accents": [
@@ -1263,7 +1263,7 @@
       }
     },
     {
-      "name": "Dracula Teal Comfort Light",
+      "name": "Haven Teal Comfort Light",
       "appearance": "light",
       "style": {
         "accents": [
@@ -1690,7 +1690,7 @@
       }
     },
     {
-      "name": "Dracula Orange Comfort Solid",
+      "name": "Haven Orange Comfort Solid",
       "appearance": "dark",
       "style": {
         "accents": [
@@ -2109,7 +2109,7 @@
       }
     },
     {
-      "name": "Dracula Orange Comfort Light",
+      "name": "Haven Orange Comfort Light",
       "appearance": "light",
       "style": {
         "accents": [
@@ -2536,7 +2536,7 @@
       }
     },
     {
-      "name": "Dracula Warm Dark",
+      "name": "Haven Warm Dark",
       "appearance": "dark",
       "style": {
         "border": "#34373A40",
@@ -2950,7 +2950,7 @@
       }
     },
     {
-      "name": "Dracula Warm Light",
+      "name": "Haven Warm Light",
       "appearance": "light",
       "style": {
         "border": "#DDD3C599",
@@ -3374,7 +3374,7 @@
       }
     },
     {
-      "name": "Dracula Warm Dark Solid",
+      "name": "Haven Warm Dark Solid",
       "appearance": "dark",
       "style": {
         "border": "#34373A40",
@@ -3788,7 +3788,7 @@
       }
     },
     {
-      "name": "Dracula Warm Light Solid",
+      "name": "Haven Warm Light Solid",
       "appearance": "light",
       "style": {
         "border": "#DDD3C599",
@@ -4213,5 +4213,5 @@
     }
   ],
   "isUserGenerated": true,
-  "description": "Custom Dracula by Gerson"
+  "description": "A comfort-focused theme collection for Zed inspired by Dracula."
 }
